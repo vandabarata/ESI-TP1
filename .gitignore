@@ -1,8 +1,8 @@
 # Default ignored files
 .idea/
 *.iml
-<<<<<<< HEAD
 *.class
-=======
 /bin/
->>>>>>> 7cc405b69121507f9a63e702289b619bda9dc9aa
+*.classpath
+*.project
+
